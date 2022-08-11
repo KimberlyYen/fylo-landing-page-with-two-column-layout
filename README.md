@@ -27,3 +27,6 @@ yarn build
 <p align="center">
 <img src="./powered-by-vitawind-bright.png">
 </p># fylo-landing-page-with-two-column-layout
+
+
+![desktop-preview](https://user-images.githubusercontent.com/87320011/184106799-84bd421c-7a11-4c9d-b86a-94323e1997f7.jpg)
