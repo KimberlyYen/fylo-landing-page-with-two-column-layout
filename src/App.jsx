@@ -2,6 +2,9 @@ import React from "react";
 import Nav from "./components/Nav";
 import AllyourFile from "./components/AllyourFile";
 import StayProductive from "./components/StayProductive";
+import GetEarly from "./components/GetEarly";
+import Footer from "./components/Footer";
+
 
 
 
@@ -13,7 +16,9 @@ function App() {
       <Nav />
       <AllyourFile />
       <StayProductive/>
-    
+      <GetEarly />
+      <Footer/>
+      
     </div>
   );
 }
